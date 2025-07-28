@@ -1,4 +1,5 @@
 # result
+```c
 I (9245) FINAL_CALCULATOR: ╔════════════════════════════════════════════════╗
 I (9245) FINAL_CALCULATOR: ║          🧮 เครื่องคิดเลขครบครัน v1.0.0        ║
 I (9245) FINAL_CALCULATOR: ║                ESP32 Calculator               ║
@@ -200,3 +201,4 @@ I (41845) FINAL_CALCULATOR: 💝 ขอบคุณและขอให้โ�
 I (41845) FINAL_CALCULATOR:
 🎯 โปรแกรมเสร็จสิ้น - ขอบคุณที่ใช้งาน!
 I (41845) main_task: Returned from app_main()
+```
