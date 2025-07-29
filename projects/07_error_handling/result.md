@@ -62,8 +62,8 @@ I (20544) ERROR_HANDLING: ⏰ ระยะเวลา: 10 ปี
 I (20544) ERROR_HANDLING: ✅ ดอกเบี้ย: 30000.00 บาท, รวม: 130000.00 บาท
 I (20544) ERROR_HANDLING: ✅ ดอกเบี้ย: 30000.00 บาท, รวม: 130000.00 บาท
 I (23544) ERROR_HANDLING: 
-📧 ตรวจสอบอีเมล: 'siwarpatauisui@gmail.com'
-I (23544) ERROR_HANDLING: ✅ อีเมลถูกต้อง: siwarpatauisui@gmail.com
+📧 ตรวจสอบอีเมล: 'paphattssorn@gmail.com'
+I (23544) ERROR_HANDLING: ✅ อีเมลถูกต้อง: paphattssorn@gmail.com
 I (23544) ERROR_HANDLING: 
 📚 === สรุปการจัดการข้อผิดพลาด ===
 I (23544) ERROR_HANDLING: ╔════════════════════════════════════════════╗
@@ -166,11 +166,11 @@ I (29228) ERROR_HANDLING: ⏰ ระยะเวลา: 10 ปี
 I (29228) ERROR_HANDLING: ✅ ดอกเบี้ย: 30000.00 บาท, รวม: 130000.00 บาท
 I (29228) ERROR_HANDLING: ✅ ดอกเบี้ย: 30000.00 บาท, รวม: 130000.00 บาท
 I (32228) ERROR_HANDLING: 
-📧 ตรวจสอบอีเมล: 'siwarpatauisui@gmail.com'
-I (32228) ERROR_HANDLING: ✅ อีเมลถูกต้อง: siwarpatauisui@gmail.com
+📧 ตรวจสอบอีเมล: 'paphattssorn@gmail.com'
+I (32228) ERROR_HANDLING: ✅ อีเมลถูกต้อง: paphattssorn@gmail.com
 I (32228) ERROR_HANDLING: 
-📱 ตรวจสอบเบอร์โทรศัพท์: '0954276527'
-I (32228) ERROR_HANDLING: ✅ เบอร์โทรศัพท์ถูกต้อง: 0954276527
+📱 ตรวจสอบเบอร์โทรศัพท์: '0123456789'
+I (32228) ERROR_HANDLING: ✅ เบอร์โทรศัพท์ถูกต้อง: 0123456789
 I (32228) ERROR_HANDLING: 
 📚 === สรุปการจัดการข้อผิดพลาด ===
 I (32228) ERROR_HANDLING: ╔════════════════════════════════════════════╗
@@ -253,11 +253,11 @@ I (17982) ERROR_HANDLING: ⏰ ระยะเวลา: 10 ปี
 I (17982) ERROR_HANDLING: ✅ ดอกเบี้ย: 30000.00 บาท, รวม: 130000.00 บาท
 I (17982) ERROR_HANDLING: ✅ ดอกเบี้ย: 30000.00 บาท, รวม: 130000.00 บาท
 I (20992) ERROR_HANDLING: 
-📧 ตรวจสอบอีเมล: 'siwarpatauisui@gmail.com'
-I (20992) ERROR_HANDLING: ✅ อีเมลถูกต้อง: siwarpatauisui@gmail.com
+📧 ตรวจสอบอีเมล: 'paphattssorn@gmail.com'
+I (20992) ERROR_HANDLING: ✅ อีเมลถูกต้อง: paphattssorn@gmail.com
 I (20992) ERROR_HANDLING: 
-📱 ตรวจสอบเบอร์โทรศัพท์: '0954276527'
-I (20992) ERROR_HANDLING: ✅ เบอร์โทรศัพท์ถูกต้อง: 0954276527
+📱 ตรวจสอบเบอร์โทรศัพท์: '0123456789'
+I (20992) ERROR_HANDLING: ✅ เบอร์โทรศัพท์ถูกต้อง: 0123456789
 I (20992) ERROR_HANDLING: 
 🆔 ตรวจสอบรหัสประจำตัวประชาชน: '1234567890123'
 E (21002) ERROR_HANDLING: ❌ รหัสประชาชนไม่ถูกต้อง (checksum ผิด)
